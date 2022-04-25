@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre" : "Adrian",
+        "apellidos" : "Fernandez de Lara",
+        "matricula" : "13004101",
+        "promedio" : "80"
+    },
+    {
+        "id": 2,
+        "nombre" : "Juan",
+        "apellidos" : "Perez",
+        "matricula" : "14004101",
+        "promedio" : "85"
+    }
+]

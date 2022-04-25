@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "numeroEmpleado" : 1,
+        "nombre" : "Roberto",
+        "apellidos" : "Perez",
+        "horasClase" : "80"
+    },
+    {
+        "id": 2,
+        "numeroEmpleado" : 2,
+        "nombre" : "Alejandra",
+        "apellidos" : "Palma",
+        "horasClase" : "100"
+    }
+]
